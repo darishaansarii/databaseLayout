@@ -1,0 +1,61 @@
+* {
+    font-family: "Poppins", serif;
+    box-sizing: border-box;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+div>h1 {
+    text-align: center;
+    color: #309827;
+    background-color: #90ee90;
+    width: 40%;
+    padding: 3px 0;
+    font-weight: 520;
+}
+
+table {
+    width: 100%; 
+    margin: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+}
+
+th {
+    color: #309827;
+    text-align: center;
+    width: 16.6%;
+}
+
+td {
+    width: 16.6%;
+    height: 70px;
+    text-align: center;
+    font-size: small;
+}
+
+.green {
+    color: #309827;
+}
+
+.bgcolor {
+    background-color: #c5fcc5;
+}
+
+button {
+    background-color: #90ee90;
+    color: #35a849;
+    font-weight: bold;
+    border: 0px;
+    padding: 8px;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
